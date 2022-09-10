@@ -12,8 +12,11 @@
 - 🌱 I’m currently learning **Reactjs,**
 
 - 💻  Projects :
+
             - 👨‍💻 Newsmania [https://h4rshsingh.github.io/NewsMania/](https://h4rshsingh.github.io/NewsMania/)
+            
             - 👨‍💻 Textutils [https://h4rshsingh.github.io/Textutils/](https://h4rshsingh.github.io/Textutils/)
+            
             - 👨‍💻 Notehub [https://notehubapp.netlify.app/](https://notehubapp.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Reactjs, Tailwind, Figma,etc**
