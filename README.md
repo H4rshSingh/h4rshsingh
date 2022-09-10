@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Reactjs,**
 
-                                - 💻  Projects :
+- 💻  Projects :
 
 - 👨‍💻 Newsmania [https://h4rshsingh.github.io/NewsMania/](https://h4rshsingh.github.io/NewsMania/)
             
