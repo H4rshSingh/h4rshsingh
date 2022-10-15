@@ -13,7 +13,7 @@
 
 - 💻  Projects :
 
-- 👨‍💻 Newsmania [https://h4rshsingh.github.io/NewsMania/](https://h4rshsingh.github.io/NewsMania/)
+- 👨‍💻 Newsmania [https://h4rshsingh.github.io/NewsMania/](https://h4rshsingh.github.io/NewsHub/)
             
 - 👨‍💻 Textutils [https://h4rshsingh.github.io/Textutils/](https://h4rshsingh.github.io/Textutils/)
             
