@@ -17,7 +17,7 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?=github" width="45" height="45" alt="Github" />
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="Github" />
       <br>Github
     </td>
     <td align="center" width="90">
