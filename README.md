@@ -25,12 +25,12 @@
       <br>Rest API
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
+      <br>VS code
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
-      <br>Svelte
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Svelte" />
+      <br>nodejs
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
@@ -87,18 +87,18 @@
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="55" height="55" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="55" height="55" />
+      <br>Kafka
     </td>
   </tr>
    <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+      <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
-      <br>GoLang
+      <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS " width="45" height="45"/>
+      <br>CSS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
