@@ -1,4 +1,4 @@
-<h1 align="center">🖐️ Senior Full Stack Developer 🖐️</h1> 
+<h1 align="center">🖐️ Full Stack Developer 🖐️</h1> 
 <br />
 <h1 align="center"> Achievements </h1>
 <p align="center">
@@ -90,48 +90,6 @@
       <br>Python
     </td>
   </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
-      <br>Anchor
-    </td>
-    <td align="center" width="90">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
-      <br>Foundry
-    </td>
-    <td align="center" width="90">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
-      <br>HardHat
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
-    </td>
-  </tr>
 </table>
 <br/>
 
@@ -139,10 +97,10 @@
   <img src="https://github.com/denysmalieiev/denysmalieiev/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
 </p> -->
 <p align="center">
-  <a href="https://github.com/denysmalieiev/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=denysmalieiev&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
+  <a href="https://github.com/h4rshsingh/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h4rshsingh&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
   </a>
-  <a href="https://github.com/denysmalieiev/convoychat">
+  <a href="https://github.com/h4rshsingh/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
