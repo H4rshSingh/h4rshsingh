@@ -17,7 +17,7 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" />
+      <img src="https://skillicons.dev/icons?=github" width="45" height="45" alt="Github" />
       <br>Github
     </td>
     <td align="center" width="90">
@@ -105,20 +105,20 @@
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
-      <br>Nest.js
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="linux" />
+      <br>Linux
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
+      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="nginx" />
+      <br>Nginx
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
+      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="prisma" />
+      <br>Prisma
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
