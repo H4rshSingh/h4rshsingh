@@ -2,7 +2,7 @@
 <br />
 <h1 align="center"> Achievements </h1>
 <p align="center">
-  <a href="https://github.com/denysmalieiev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=denysmalieiev&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@denysmalieiev's trophy stats"/></a>
+  <a href="https://github.com/denysmalieiev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=h4rshsingh&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@h4rshsingh's trophy stats"/></a>
 </p>
 <table align="center">
 
@@ -93,9 +93,10 @@
 </table>
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/denysmalieiev/denysmalieiev/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
-</p> -->
+</p> 
+
 <p align="center">
   <a href="https://github.com/h4rshsingh/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h4rshsingh&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
@@ -105,6 +106,10 @@
   </a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4rshsingh&" alt="h4rshsingh" /></p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=h4rshsingh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 <br clear ="both" >
@@ -158,3 +163,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4rshsingh&show_icons=true&locale=en" alt="h4rshsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4rshsingh&" alt="h4rshsingh" /></p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=h4rshsingh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
