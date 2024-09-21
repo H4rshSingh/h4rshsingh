@@ -17,12 +17,12 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" />
+      <br>Github
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="Rest API" />
+      <br>Rest API
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
@@ -45,13 +45,13 @@
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="aws" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="aws" />
       <br>AWS
     </td>
     <td align="center" width="90">
@@ -63,7 +63,7 @@
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="docker" />
       <br>Docker
     </td>
     <td align="center" width="90">
