@@ -51,44 +51,44 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=C" width="45" height="45" alt="C" />
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="aws" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" title="c" alt="c " width="45" height="45"/>
       <br>C
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcpp" title="CPP" alt="GoLang " width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
+      <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
-      <br>Nest.js
+      <img src="https://skillicons.dev/icons?i=java" alt="java" width="55" height="55" />
+      <br>Java	
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="js" />
+      <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="ts" />
+      <br>Typescript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="supabase" />
+      <br>Supabase
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
+      <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
+      <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="55" height="55" />
+      <br>Tailwind
     </td>
   </tr>
    <tr>
