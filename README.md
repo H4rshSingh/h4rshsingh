@@ -1,9 +1,9 @@
 <h1 align="center">🖐️ Full Stack Developer 🖐️</h1> 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h4rshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="h4rshsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumarcode&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumarcode" /> </p>
 <h1 align="center"> Achievements </h1>
 <p align="center">
-  <a href="https://github.com/denysmalieiev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=h4rshsingh&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@h4rshsingh's trophy stats"/></a>
+  <a href="https://github.com/denysmalieiev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=harshkumarcode&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@harshkumarcode's trophy stats"/></a>
 </p>
 <table align="center">
 
@@ -139,28 +139,28 @@
 <br/>
 
 <p align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=h4rshsingh&show_icons=true&theme=radical&card_width=300&rank_icon=github" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4rshsingh&layout=compact&langs_count=8&card_width=300&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshkumarcode&show_icons=true&theme=radical&card_width=300&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumarcode&layout=compact&langs_count=8&card_width=300&theme=radical" />
 </p>
 
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=h4rshsingh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=harshkumarcode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/h4rshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h4rshsingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/h4rshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h4rshsingh" height="30" width="40" /></a>
-<a href="https://codepen.io/h4rshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="h4rshsingh" height="30" width="40" /></a>
-<a href="https://fb.com/h4rshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h4rshsingh" height="30" width="40" /></a>
+<a href="https://twitter.com/harshkumarcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshkumarcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshkumarcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkumarcode" height="30" width="40" /></a>
+<a href="https://codepen.io/harshkumarcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshkumarcode" height="30" width="40" /></a>
+<a href="https://fb.com/harshkumarcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshkumarcode" height="30" width="40" /></a>
 <a href="https://instagram.com/h4rshingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4rshingh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h4rshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h4rshsingh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshkumarcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshkumarcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/h4rshsingh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="h4rshsingh" /></a></p>
+<p><a href="https://www.buymeacoffee.com/harshkumarcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="harshkumarcode" /></a></p>
 
 <br clear ="both" >
 
